@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.cursorStyle": "line",
+		"workbench.colorCustomizations": {
+			
+		},
+		"files.associations": {
+			"AddOfMatrices.C": "cpp"
+		}
+	}
+}
